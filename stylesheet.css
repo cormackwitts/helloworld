@@ -3,6 +3,10 @@ h1 {
     font-family:Verdana;
 }
 
+h2 {
+    color:lightseagreen
+}
+
 p {
     font-family:Verdana;
 }
@@ -18,7 +22,7 @@ img {
 
 .headerdiv {
     text-align:center;
-    font-size:30px;
-    background-color:grey;
-    padding:25px;
+    font-size:25px;
+    background-color:darkred;
+    padding:20px;
 }
