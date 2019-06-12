@@ -4,7 +4,8 @@ h1 {
 }
 
 h2 {
-    color:lightseagreen
+    color:lightseagreen;
+    font-family:Verdana;
 }
 
 p {
@@ -25,4 +26,8 @@ img {
     font-size:25px;
     background-color:darkred;
     padding:20px;
+}
+
+.headerdiv:hover {
+    background-color:darkgoldenrod
 }
