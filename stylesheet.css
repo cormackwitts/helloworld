@@ -3,6 +3,10 @@ h1 {
     font-family:Verdana;
 }
 
+p {
+    font-family:Verdana;
+}
+
 body {
     padding:15px;
     text-align:center;
@@ -10,4 +14,11 @@ body {
 
 img {
     float:center
+}
+
+.headerdiv {
+    text-align:center;
+    font-size:30px;
+    background-color:grey;
+    padding:25px;
 }
